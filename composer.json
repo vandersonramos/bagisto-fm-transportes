@@ -10,7 +10,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "VandersonRamos\\FMTransporte\\": "src/"
+            "VandersonRamos\\FMTransportes\\": "src/"
         }
     },
     "extra": {
