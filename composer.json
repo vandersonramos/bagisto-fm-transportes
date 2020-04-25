@@ -1,0 +1,25 @@
+{
+    "name": "VandersonRamos/FMTransporte",
+    "description": "Metodo de entrega utilizando o webservice da FM Transportes",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vanderson Ramos",
+            "email": "ramos.vandersoninfor@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "VandersonRamos\\FMTransporte\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "VandersonRamos\\FMTransportes\\Providers\\FMTransportesServiceProvider"
+            ],
+            "aliases": {}
+        }
+    },
+    "minimum-stability": "dev"
+}
