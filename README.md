@@ -30,9 +30,7 @@ PicPay: @vandersonramos
 
 ## Conheça outros Packages para Bagisto
 
-* [Bagisto - Pagseguro](https://github.com/cagartner/bagisto-pagseguro)
-* [Bagisto - PicPay](https://github.com/cagartner/bagisto-picpay)
-* [Bagisto - Campos Brasileiros](https://github.com/cagartner/bagisto-brazilcustomer)
+* https://bagisto.com/en/extensions/
 
 ## Conheça a comunidade Brasileira de Bagisto
 - [Portal Oficial](https://bagisto.com.br)
