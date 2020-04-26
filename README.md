@@ -16,7 +16,7 @@ Configurações disponíveis:
 * **Ambiente**: Homologação ou Produção
 * **Formato de peso**: Formato do peso dos produtos
 * **Tipo de dimensão**: Dimensão dos produtos cadastrados
-* **Title**: Nome do método de entrega
+* **Título**: Nome do método de entrega
 * **Login**: Usuário fornecido pela FM Transportes
 * **Senha**: Senha fornecida pela FM Transportes
 * **Ativar Serviço (Standard / Express / Rodo)**: Para cada tipo de serviço contratado, um código que cliente será informado.
