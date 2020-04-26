@@ -51,7 +51,7 @@ return [
             ],
             [
                 'name' => 'weight_type',
-                'title' => 'Tipo de peso',
+                'title' => 'Formato de peso',
                 'type' => 'select',
                 'options' => [
                     [
@@ -65,7 +65,7 @@ return [
             ],
             [
                 'name' => 'title',
-                'title' => 'Title',
+                'title' => 'Nome do método de entrega',
                 'type' => 'text',
                 'validation' => 'required',
             ],
