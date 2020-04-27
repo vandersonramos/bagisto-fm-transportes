@@ -19,7 +19,7 @@ Configurações disponíveis:
 * **Título**: Nome do método de entrega
 * **Login**: Usuário fornecido pela FM Transportes
 * **Senha**: Senha fornecida pela FM Transportes
-* **Ativar Serviço (Standard / Express / Rodo)**: Para cada tipo de serviço contratado, um código que cliente será informado.
+* **Ativar Serviço (Standard / Express / Rodo)**: Para cada tipo de serviço contratado, um código de cliente será informado.
 Ative apenas as opções para serviços contratados e informe o código de cliente.
 
 Para maiores informações, entre em contato com a transportadora: [FM Transportes](http://www.fmtransportes.com.br/)
